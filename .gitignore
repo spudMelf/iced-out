@@ -1,0 +1,7 @@
+**/__pycache__/
+.DS_Store
+AUDIO
+audio2
+.env
+
+/samples/audio/**
